@@ -1,0 +1,10 @@
+{
+  "description": "Order premium high-protein, lower-sugar desserts freshly made and delivered fast in Sheopur with easy browsing, filtering, and secure checkout.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
